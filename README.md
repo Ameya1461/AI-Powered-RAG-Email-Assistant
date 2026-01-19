@@ -84,12 +84,6 @@ By running the below commands you will get the files
 ```
 
 
-# Frontend Setup
-
-![App Screenshot](./frontend/public/screenshot.png) 
-
-![App Screenshot](./frontend/public/screenshot1.png)
-
 
 Can chat with the RAG to get the information about the mails by asking it questions also the voice input feature is also applied so that you can ask your question without typing and can get relevent answers and secure Google authentication.
 
